@@ -1,1 +1,3 @@
-# FOML_LAB_EXPT_3rdSem---25-26-
+# Fundamentals Of Machine Learning
+# Lab Experiments
+# 3rd Semester 25/26
