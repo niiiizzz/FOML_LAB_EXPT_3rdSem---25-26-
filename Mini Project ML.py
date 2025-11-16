@@ -639,5 +639,5 @@ for cluster_id in range(optimal_k):
     print(f"   • Cluster {cluster_id} ({name}): {count} customers ({pct:.1f}%)")
 
 print("\n" + "="*80)
-print("Ready for your mini project presentation! 🚀")
+print("K - Means Clustering successfully executed for Customer Segmentation! 🚀")
 print("="*80)
